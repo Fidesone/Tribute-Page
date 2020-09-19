@@ -6,18 +6,6 @@
 <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
-	<div id="main">
-		<div id="title"> 
-		<h1 class="h1">Alexander Von Humboldt</h1>
-		<p  class="p"> El primer naturalista</p>
-		
-		</div>
-	
-	
-	
-	
-	
-	
-	</div>
+	<div id="main"></div>
 </body>
 </html>
