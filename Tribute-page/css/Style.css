@@ -11,8 +11,9 @@
 #main{
 	margin: auto;
 	background-color: grey;
-	width: 1100px;
-	height:1000px;
+	width: 100%;
+	max-width:1200px;
+	
 }
 
 		/* HEAD */
@@ -36,15 +37,46 @@
 		/* BODY */
 
 #img-div{
-	display: flex;
+	display: table;
 	justify-content: center;
   	align-items: center;
-	margin:center;
+	margin:auto;
+	
+	width: 55%;
+	
+	border: thin silver solid;
+}
+
+#img{
+	display: block;
+	width: 60%;
+	margin:auto;
+	margin-top: 10px;
 	
 }
-#img{
+#img-caption{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#tribute-info{
+	display: table;
+	width: 700px;
+	height:300px;
 	
-	width: 300px;
-	height: 300px;
+	margin:auto;
+	align-items: center;
+	
+}
+.titulo{
+	text-align: center;
+}
+.contenido{
+	text-align: justify;
+	line-height: 20px;
+}
+
+
+@media screen and (max-width:600px){
 	
 }

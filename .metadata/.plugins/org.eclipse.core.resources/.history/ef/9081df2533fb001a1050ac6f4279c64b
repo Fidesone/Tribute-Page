@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Tribute page</title>
+<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+	<div id="main">
+		<div id="title"> 
+		<h1 class="h1">Alexander Von Humboldt</h1>
+		<p  class="p"> El primer naturalista</p>
+		
+		</div>
+		<div id="img-div">
+			<p><img src="css/Humboldt.jpg" id="img"><p>
+			<p id="img-caption">Retrato de Alexander Von Humboldt</p>
+		</div>
+	
+	
+	
+	
+	
+	</div>
+</body>
+</html>
