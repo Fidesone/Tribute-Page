@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
 <meta charset="ISO-8859-1">
 <title>Tribute page</title>
 <link rel="stylesheet" href="css/style.css" type="text/css">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
-<link rel="icon" href="css/icon.png">
 </head>
 <body>
 	<div id="main">
@@ -27,8 +26,8 @@ It is a long established fact that a reader will be distracted by the readable c
 		</div>
 	
 	
-	<p id="wiki">Dispones de más información de este hombre en <a id="tribute-link" target="_blank" href="https://es.wikipedia.org/wiki/Alexander_von_Humboldt">Wikipedia</a></p>
-	</div>
 	
+	</div>
+	<p id="wiki">Dispones de más información de este hombre en <a id="tribute-link" href="https://es.wikipedia.org/wiki/Alexander_von_Humboldt">Wikipedia</a></p>
 </body>
 </html>
